@@ -1,0 +1,39 @@
+|-- .eslintrc.cjs
+|-- .gitignore
+|-- index.html
+|-- package-lock.json
+|-- package.json
+|-- postcss.config.js
+|-- public
+    |-- vite.svg
+|-- README.md
+|-- src
+    |-- App.css
+    |-- App.jsx
+    |-- assets
+        |-- react.svg
+    |-- components
+        |-- Auth
+            |-- Login.jsx
+        |-- Dashboard
+            |-- AdminDashboard.jsx
+            |-- EmployeeDashboard.jsx
+        |-- other
+            |-- AllTask.jsx
+            |-- CreateTask.jsx
+            |-- Header.jsx
+            |-- TaskListNumbers.jsx
+        |-- TaskList
+            |-- AcceptTask.jsx
+            |-- CompleteTask.jsx
+            |-- FailedTask.jsx
+            |-- NewTask.jsx
+            |-- TaskList.jsx
+    |-- context
+        |-- AuthProvider.jsx
+    |-- index.css
+    |-- main.jsx
+    |-- utils
+        |-- localStorage.jsx
+|-- tailwind.config.js
+|-- vite.config.js
