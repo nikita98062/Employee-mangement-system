@@ -122,7 +122,7 @@ The application is configured for GitHub Pages deployment. To deploy:
 MIT
 
 ## 👨‍💻 Author
-Pawan Raju
+Nikita Tambole
 
 
 
